@@ -1,0 +1,2 @@
+PLANNING de formation :
+Il permettra de gérer les tâches et durée de formation afin d'organiser le travail dans les meilleurs conditions 
