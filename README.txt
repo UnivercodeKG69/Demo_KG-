@@ -1,2 +1,2 @@
 Bonjour,
-Nouveu fichier qui étudie la stratégie K qui permet l'optimiser nos forces et d'améliorer notre gestion du temps...
+Nouveu fichier qui étudie la stratégie K qui permet de faire un plan d'action et d'établir les objectfs à atteindre dans un délais limité.  
